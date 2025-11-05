@@ -174,3 +174,6 @@ cython_debug/
 
 # Ruff stuff:
 .ruff_cache/
+
+# Calaveritas generadas
+calaveritas_generadas/
