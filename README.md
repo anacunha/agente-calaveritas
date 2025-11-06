@@ -1,4 +1,4 @@
-# 🎃 Calaveritas Agent
+# 🎃 Agente de Calaveritas
 
 Generador conversacional de calaveritas literarias usando Strands Agents.
 
