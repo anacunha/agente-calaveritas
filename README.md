@@ -8,7 +8,7 @@ Este proyecto demuestra cómo construir agentes de IA de forma progresiva, desde
 
 El proyecto está organizado en etapas progresivas:
 
-### Etapa 0: Agente Simple (Hardcoded)
+### Etapa 0: Agente Simple
 
 - Agente básico sin herramientas
 - Request predefinido para demo rápida
@@ -39,7 +39,7 @@ El proyecto está organizado en etapas progresivas:
 - Genera calaveritas basadas en la imagen
 - Demuestra capacidades multimodales de Claude
 
-## � Cosnfiguración
+## 🔧 Configuración
 
 Strands Agents usa **Amazon Bedrock con Claude 4 Sonnet** como modelo por defecto. Necesitas credenciales de AWS para usar Amazon Bedrock.
 
